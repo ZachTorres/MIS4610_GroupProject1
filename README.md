@@ -1,1 +1,1 @@
-# MIS4610_GroupProject1
+# Group 7 - Project #1
