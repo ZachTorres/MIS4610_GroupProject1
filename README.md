@@ -14,5 +14,8 @@ At the end of each month do you see that your sock supply has dwindled significa
 ## Data Dictionary
 
 ## Queries
+<img width="729" alt="Screenshot 2025-03-17 at 4 10 52 PM" src="https://github.com/user-attachments/assets/13e5fcd9-0759-43e5-a0da-9fb938d2e577" />
+<img width="975" alt="Screenshot 2025-03-17 at 4 13 50 PM" src="https://github.com/user-attachments/assets/f61e2304-00fc-47b8-b000-91ac90229c10" />
+<img width="671" alt="Screenshot 2025-03-17 at 4 16 05 PM" src="https://github.com/user-attachments/assets/8240e82d-86cc-4503-b3ad-174123f8419e" />
 
 ## Database Information
