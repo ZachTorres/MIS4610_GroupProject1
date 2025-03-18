@@ -15,20 +15,21 @@ At the end of each month do you see that your sock supply has dwindled significa
 
 ## Queries
 
- 1. QUERY 1 (Simple)
+ 1. QUERY 1 (Simple) - This query lists all the subscribers who started in February. This is helpful to a manager to first know if the number of new users is larger or smaller compared to other months. Additionally, this could be helpful for promotions for customers who have been around for a certain amount of months.
+
+<img width="746" alt="Screenshot 2025-03-18 at 9 47 45 AM" src="https://github.com/user-attachments/assets/982302cd-6ab9-4732-b783-1357a57e974b" />
 
 
-<img width="729" alt="Screenshot 2025-03-17 at 4 10 52 PM" src="https://github.com/user-attachments/assets/13e5fcd9-0759-43e5-a0da-9fb938d2e577" />
+ 2. QUERY 2 (Complex) - This query shows what people are spending more on average compared during January. This is helpful because January is typically a month where people dial back their purchasing after the holiday season, so people still purchasing more than our average customer could be targeted for our more high-end sock lines.
 
- 2. QUERY 2 (Complex)
-
-
-<img width="975" alt="Screenshot 2025-03-17 at 4 13 50 PM" src="https://github.com/user-attachments/assets/f61e2304-00fc-47b8-b000-91ac90229c10" />
-
- 3. QUERY 3 (Complex)
+<img width="838" alt="Screenshot 2025-03-18 at 9 48 45 AM" src="https://github.com/user-attachments/assets/fd550654-3fa5-405c-9ad4-e1c62eaf5426" />
 
 
-<img width="671" alt="Screenshot 2025-03-17 at 4 16 05 PM" src="https://github.com/user-attachments/assets/8240e82d-86cc-4503-b3ad-174123f8419e" />
+ 3. QUERY 3 (Complex) - This query lists our subscription plans with more than 20 users. This is helpful to know which plans are doing well so we can double down and further meet these customers needs. 
+
+<img width="679" alt="Screenshot 2025-03-18 at 9 49 24 AM" src="https://github.com/user-attachments/assets/f437dad7-cf2b-430f-9f7e-f99bb42d4523" />
+
+
 
  4. QUERY 4 (Complex): What query 4 does is put out the info of each subscription plan's name and price per month, then counts how many people are subscribed to each plan by counting active subscription , and then using that multiplies the numbers to calculate how much total revenue each plan brings in. Then it groups everything by the plan name and sorts the results in descending order (High to low) by total revenue.
 
