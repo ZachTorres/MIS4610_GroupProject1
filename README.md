@@ -37,10 +37,14 @@ At the end of each month do you see that your sock supply has dwindled significa
 
 From this info we as a buisness can quickly see which subscription plans are the most popular by seeing subscription and along with that we can see which ones make the most money. This could guide and ultimatly influnce many decisions about marketing by pushing certain plans more, or adjustments to plan pricing by lowering the price of underperforming plans. 
 
- 5. QUERY 5 (Complex)
+
+ 5. QUERY 5 (Complex): Query 5 adds up the total weight of all incoming shipments from that specifc supplier, and then uses groupby and having filters to only show those suppliers whose total shipped weight is greater than 10,500. After that, it sorts the list by the total weight shipped from smallest to largest and only displays the top two supplliers out of the 3 we currently have.
 
 
 <img width="1028" alt="Screenshot 2025-03-17 at 4 16 29 PM" src="https://github.com/user-attachments/assets/84ccf8c1-7e48-48c5-8562-73f699b1815b" />
+
+By being able to see which suppliers have shipped more than 10,500 pounds in weight it will help spot who our biggest suppliers are. By being able to see who of our suppliers are moving most of the product, we can see who our best suppliers and most important partners are. we can also see the suppliers who aren’t meeting that threshold, which could raise questions about their efficiency and question our choices.
+
 
  6. QUERY 6(Simple)
 
