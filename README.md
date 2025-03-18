@@ -52,4 +52,11 @@ By being able to see which suppliers have shipped more than 10,500 pounds in wei
 
 <img width="983" alt="Screenshot 2025-03-17 at 4 15 21 PM" src="https://github.com/user-attachments/assets/eaa30e9c-ae9f-417c-bbee-9c9ec613db7c" />
 
+
+7. QUERY 7 (Simple) This query calculates the total number of socks available in inventory by summing up the stockQuantity field.
+8. 
+   ![image](https://github.com/user-attachments/assets/f8f4b30a-b08d-46b1-8118-5e78117007c9)
+   
+Having a clear view of total inventory is critical for supply chain management. This query allows managers to track stock levels, ensuring that demand can be met without unnecessary overstocking. If the number is too low, they may need to order more supplies or adjust marketing efforts to avoid running out of stock. Conversely, if the number is too high, they might consider running promotions to move excess inventory.
+
 ## Database Information
