@@ -79,3 +79,14 @@ Tracking the number of shipments handled by each distributor is essential for su
 This information can be valuable for strategic decision-making, such as identifying strong partners for expanding market presence, optimizing supply chain logistics, and focusing on distributors who contribute significantly to the company's distribution network. Understanding which distributors cover the most regions can also aid in resource allocation and partnership prioritization.
 
 ## Database Information
+
+CALL TP_Q1();
+CALL TP_Q2();
+CALL TP_Q4();
+CALL TP_Q4();
+CALL TP_Q5();
+CALL TP_Q6();
+CALL TP_Q7();
+CALL TP_Q8();
+CALL TP_Q9();
+CALL TP_Q10();
