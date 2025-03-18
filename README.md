@@ -3,10 +3,10 @@
 21482 Group 7
 ## Team Members
 Clay Campbell [@soup_clay](https://github.com/soup-clay)\
-Karishma Pandit\
-Anay Patel\
-Matthew Schwanekamp\
-Zachary Torres
+Karishma Pandit [@karishmapandit](https://github.com/karishmapandit)\
+Anay Patel [@AnayPatek05](https://github.com/AnayPatek05)\
+Matthew Schwanekamp [@matthewschwanekamp](https://github.com/matthewschwanekamp)\
+Zachary Torres [@ZachTorres](https://github.com/ZachTorres)
 ## Problem Description
 At the end of each month do you see that your sock supply has dwindled significantly? This is where Socks2Go comes in! We are an eCommerce sock subscription service. Our customers sign up and receive a box of socks each month. Our customers of the subscription will sign up and receive a box of socks each month depending on subscription tier. Our system tracks the subscription details, order histories, and inventory levels to ensure timely deliveries and customer satisfaction and the data we gather can be used to enhance the shopping experience by exploiting flaws providing valuable insights into customer trends.
 ## Data Model
