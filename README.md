@@ -12,6 +12,17 @@ At the end of each month do you see that your sock supply has dwindled significa
 ## Data Model
 ![Screenshot 2025-03-13 162337](https://github.com/user-attachments/assets/798def86-2cab-4e65-b422-1e348e74f3ee)
 ## Data Dictionary
+![Table 1 Subscriber](https://github.com/user-attachments/assets/82f507b6-b604-41ad-9b75-8c9015b69c7c)
+![Table 2 Subscription Plans](https://github.com/user-attachments/assets/a7a3e1d8-7046-4795-b7b4-f9af3ed69cab)
+![Table 3 Orders](https://github.com/user-attachments/assets/c3821555-02ef-48bb-9c16-df272119ebb0)
+![Table 4 Employee](https://github.com/user-attachments/assets/098407b2-dfa2-4e65-9d1c-ac0eeb95b0c2)
+![Table 5 Department](https://github.com/user-attachments/assets/21546723-55a2-46ba-9bce-9bcf4d794453)
+![Table 6 Supplier](https://github.com/user-attachments/assets/e670b81a-e2df-47d9-9d98-afac00d8381e)
+![Table 7 Distributors-Partners](https://github.com/user-attachments/assets/19c60f3f-3054-40e8-9196-b2d9392a287c)
+![Table 8 Incoming Shipments](https://github.com/user-attachments/assets/75b20861-62ab-48e3-9735-1604db9a9151)
+![Table 9 Inventory](https://github.com/user-attachments/assets/8dc40695-5039-4f70-8b63-cb2e16e9b90d)
+![Table 10 Promotions](https://github.com/user-attachments/assets/0428f714-eba2-4271-8e57-e6c4ac148d60)
+![Table 11 Designs](https://github.com/user-attachments/assets/37cb7e35-7646-40c2-992c-2e600ae845ec)
 
 ## Queries
 
