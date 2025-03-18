@@ -2,7 +2,7 @@
 ## Team Name
 21482 Group 7
 ## Team Members
-Clay Campbell\
+Clay Campbell [@soup_clay](https://github.com/soup-clay)\
 Karishma Pandit\
 Anay Patel\
 Matthew Schwanekamp\
