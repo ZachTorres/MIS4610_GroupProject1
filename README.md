@@ -53,10 +53,28 @@ By being able to see which suppliers have shipped more than 10,500 pounds in wei
 <img width="983" alt="Screenshot 2025-03-17 at 4 15 21 PM" src="https://github.com/user-attachments/assets/eaa30e9c-ae9f-417c-bbee-9c9ec613db7c" />
 
 
-7. QUERY 7 (Simple) This query calculates the total number of socks available in inventory by summing up the stockQuantity field.
-8. 
-   ![image](https://github.com/user-attachments/assets/f8f4b30a-b08d-46b1-8118-5e78117007c9)
+7. QUERY 7 (Simple): This query calculates the total number of socks available in inventory by summing up the stockQuantity field.
+
+![image](https://github.com/user-attachments/assets/f8f4b30a-b08d-46b1-8118-5e78117007c9)
    
 Having a clear view of total inventory is critical for supply chain management. This query allows managers to track stock levels, ensuring that demand can be met without unnecessary overstocking. If the number is too low, they may need to order more supplies or adjust marketing efforts to avoid running out of stock. Conversely, if the number is too high, they might consider running promotions to move excess inventory.
+
+8. QUERY 8 (Simple): This query retrieves a list of all employees along with their first name, last name, and department name by joining the Employee table with the Department table.
+
+![image](https://github.com/user-attachments/assets/7dd67b7e-9c78-4715-afe0-4667ff67ceca)
+
+Understanding the distribution of employees across departments is essential for workforce planning and resource allocation. Managers can use this query to assess staffing levels, ensure departments are adequately staffed, and make strategic hiring decisions. Additionally, HR can use this data to track internal mobility and optimize team structures.
+
+9. QUERY 9 (Complex): This query retrieves a list of distributors along with the total number of outgoing shipments they have processed. It filters out distributors with 3 or fewer shipments and sorts the results in descending order.
+
+![image](https://github.com/user-attachments/assets/b4cc124c-e228-4088-84cd-470be4d95dec)
+
+Tracking the number of shipments handled by each distributor is essential for supply chain management and logistics planning. This query helps identify high-performing distributors that are actively handling large volumes, ensuring that operations run smoothly. It also highlights underperforming distributors, which may indicate inefficiencies or potential partnership risks that require further investigation.
+
+10. QUERY 10 (Complex): This query retrieves information about distributors and the number of distinct regions they cover based on outgoing shipments. It selects the distributor ID and name, counts the unique destination addresses (regionsCovered) for each distributor, and filters the results to only include distributors who cover more than three regions. 
+
+![image](https://github.com/user-attachments/assets/2642146a-e4c8-4d8e-933b-d2293561d1cd)
+
+This information can be valuable for strategic decision-making, such as identifying strong partners for expanding market presence, optimizing supply chain logistics, and focusing on distributors who contribute significantly to the company's distribution network. Understanding which distributors cover the most regions can also aid in resource allocation and partnership prioritization.
 
 ## Database Information
