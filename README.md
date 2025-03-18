@@ -8,7 +8,7 @@ Anay Patel\
 Matthew Schwanekamp\
 Zachary Torres
 ## Problem Description
-At the end of each month do you see that your sock supply has dwindled significantly? This is where Socks2Go comes in! We are an eCommerce sock subscription service. Our customers sign up and receive a box of socks each month.
+At the end of each month do you see that your sock supply has dwindled significantly? This is where Socks2Go comes in! We are an eCommerce sock subscription service. Our customers sign up and receive a box of socks each month. Our customers of the subscription will sign up and receive a box of socks each month depending on subscription tier. Our system tracks the subscription details, order histories, and inventory levels to ensure timely deliveries and customer satisfaction and the data we gather can be used to enhance the shopping experience by exploiting flaws providing valuable insights into customer trends.
 ## Data Model
 ![Screenshot 2025-03-13 162337](https://github.com/user-attachments/assets/798def86-2cab-4e65-b422-1e348e74f3ee)
 ## Data Dictionary
