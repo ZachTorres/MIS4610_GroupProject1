@@ -85,13 +85,13 @@ Having a clear view of total inventory is critical for supply chain management. 
 
 ![image](https://github.com/user-attachments/assets/7dd67b7e-9c78-4715-afe0-4667ff67ceca)
 
-Understanding the distribution of employees across departments is essential for workforce planning and resource allocation. Managers can use this query to assess staffing levels, ensure departments are adequately staffed, and make strategic hiring decisions. Additionally, HR can use this data to track internal mobility and optimize team structures.
+It is important to understand the distribution of employees across departments for workforce planning and resource allocation. Managers would use this query to assess staffing levels and ensure departments are adequately staffed in order to make strategic hiring decisions. Additionally, HR could use this data to optimize team structures.
 
-9. QUERY 9 (Complex): This query retrieves a list of distributors along with the total number of outgoing shipments they have processed. It filters out distributors with 3 or fewer shipments and sorts the results in descending order.
+9. QUERY 9 (Complex): This query retrieves a list of distributors along with the total number of outgoing shipments that they have processed. This query filters out distributors with 3 or fewer shipments and then sorts the results in descending order.
 
 ![image](https://github.com/user-attachments/assets/b4cc124c-e228-4088-84cd-470be4d95dec)
 
-Tracking the number of shipments handled by each distributor is essential for supply chain management and logistics planning. This query helps identify high-performing distributors that are actively handling large volumes, ensuring that operations run smoothly. It also highlights underperforming distributors, which may indicate inefficiencies or potential partnership risks that require further investigation.
+By tracking the number of shipments handled by each distributor managemet is able to identify high-performing distributors that are actively handling large volumes. This ensures that operations run smoothly and also highlights underperforming distributors, which may indicate inefficiencies or any partnership risks that could require further investigation.
 
 10. QUERY 10 (Complex): This query retrieves information about distributors and the number of distinct regions they cover based on outgoing shipments. It selects the distributor ID and name, counts the unique destination addresses (regionsCovered) for each distributor, and filters the results to only include distributors who cover more than three regions. 
 
